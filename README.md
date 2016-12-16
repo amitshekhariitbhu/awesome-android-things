@@ -9,6 +9,7 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 ## Useful links
 
 - [What is Android Things](https://blog.mindorks.com/google-released-the-developer-preview-of-android-things-iot-75cb49b9ce24) - A complete explanation about Android Things.
+- [Android Things Tutorials — Getting Started](https://blog.mindorks.com/android-things-tutorials-getting-started-8464c11009ff) - Getting started with Android Things.
 - [Developer Kits](https://developer.android.com/things/hardware/developer-kits.html) - Discover the hardware platforms supported by Android Things as well as developer kits.
 - [Learn about Peripheral I/O](https://developer.android.com/things/sdk/pio/index.html) - Know about the Peripheral I/O.
 - [New Project Template](https://github.com/androidthings/new-project-template) - Android Things empty project template.
