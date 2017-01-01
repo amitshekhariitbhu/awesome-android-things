@@ -19,7 +19,17 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 - [sample-uartloopback](https://github.com/androidthings/sample-uartloopback) - UART Loopback sample for Android Things.
 - [sample-doorbell](https://github.com/androidthings/doorbell) - Android Things Doorbell sample.
 - [sample-weatherstation](https://github.com/androidthings/weatherstation) - Android Things Weather Station sample.
+
+### Drivers
 - [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples.
+- [1602 LCD display](https://github.com/Nilhcem/1602A-androidthings) - 1602 LCD display
+- [DaSiAnThiLib](https://github.com/davemckelvie/things-drivers) - LCD display, PCF8574(A)
+- [HCSR501 motion sensor](https://gist.github.com/PaulTR/0f09b2f8fdc2e45fa96aa53a77dabc05) - HCSR501 motion sensor
+- [HMC5883L 3-axis magnetometer](https://github.com/cagdasc/AndroidThings-HMC5883L) - HMC5883L 3-axis magnetometer
+- [ADXL345 3-axis accelerometer](https://github.com/cagdasc/AndroidThings-ADXL345) - ADXL345 3-axis accelerometer
+- [ADXL362 Accelerometer](https://github.com/vishal-android-freak/ADXL362-Interfacing-Library) - ADXL362 Accelerometer
+- [HC-SR04 Ultrasonic UserSensor](https://github.com/vishal-android-freak/HC-SR04-AndroidThings-Library) - HC-SR04 Ultrasonic UserSensor
+
 
 
 ### TODO
