@@ -19,6 +19,7 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 - [sample-uartloopback](https://github.com/androidthings/sample-uartloopback) - UART Loopback sample for Android Things.
 - [sample-doorbell](https://github.com/androidthings/doorbell) - Android Things Doorbell sample.
 - [sample-weatherstation](https://github.com/androidthings/weatherstation) - Android Things Weather Station sample.
+- [Serial Port Api](https://github.com/cepr/android-serialport-api) - library to access serial ports in Android.
 
 ### Drivers
 - [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples.
