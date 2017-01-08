@@ -29,6 +29,7 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 - [ADXL345 3-axis accelerometer](https://github.com/cagdasc/AndroidThings-ADXL345) - ADXL345 3-axis accelerometer
 - [ADXL362 Accelerometer](https://github.com/vishal-android-freak/ADXL362-Interfacing-Library) - ADXL362 Accelerometer
 - [HC-SR04 Ultrasonic UserSensor](https://github.com/vishal-android-freak/HC-SR04-AndroidThings-Library) - HC-SR04 Ultrasonic UserSensor
+- [Bosh BMP85/BMP180](https://github.com/euler2dot7/android_things_bmp180) - Bosh BMP85/BMP180 barometer
 
 
 
