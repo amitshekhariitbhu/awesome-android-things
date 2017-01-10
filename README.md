@@ -38,6 +38,18 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 ### TODO
 - Updating it on daily basis as much as possible so that we will be always updated.
 
+### What we don't know yet (preview1)
+- How to create a custom Board Support Package (BSP) (currently only three boards are supported)
+- How the developer console will look like
+  - How to create an iso image containing the Android App
+  - How to update the Android app (without installing an app store)
+  - How to set security policies and other adjustments in the BSP
+- How to authenticate a user, connect to wifi, select a system service like keyboard ... on a device without keyboard (Weave is not available)
+- How to include voice recognition
+- How to deal with analog signals
+- How to use pheripherals in native/C++ code
+- Where the border is between BSP/Android API and own hardware (think chip with ADC on-chip and on breakout board)
+
 ### Found this project useful :heart:
 * Support by clicking the :star: button on the upper right of this page. :v:
 
