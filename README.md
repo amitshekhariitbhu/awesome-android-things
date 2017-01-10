@@ -23,7 +23,7 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 - [Serial Port Api](https://github.com/cepr/android-serialport-api) - library to access serial ports in Android.
 
 ### Drivers
-- [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples.
+- [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637)
 - [1602 LCD display](https://github.com/Nilhcem/1602A-androidthings) - 1602 LCD display
 - [DaSiAnThiLib](https://github.com/davemckelvie/things-drivers) - LCD display, PCF8574(A)
 - [HCSR501 motion sensor](https://gist.github.com/PaulTR/0f09b2f8fdc2e45fa96aa53a77dabc05) - HCSR501 motion sensor
@@ -37,18 +37,6 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 
 ### TODO
 - Updating it on daily basis as much as possible so that we will be always updated.
-
-### What we don't know yet (preview1)
-- How to create a custom Board Support Package (BSP) (currently only three boards are supported)
-- How the developer console will look like
-  - How to create an iso image containing the Android App
-  - How to update the Android app (without installing an app store)
-  - How to set security policies and other adjustments in the BSP
-- How to authenticate a user, connect to wifi, select a system service like keyboard ... on a device without keyboard (Weave is not available)
-- How to include voice recognition
-- How to deal with analog signals
-- How to use pheripherals in native/C++ code
-- Where the border is between BSP/Android API and own hardware (think chip with ADC on-chip and on breakout board)
 
 ### Found this project useful :heart:
 * Support by clicking the :star: button on the upper right of this page. :v:
