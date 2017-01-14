@@ -25,7 +25,7 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 ### Drivers
 - [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637)
 - [1602 LCD display](https://github.com/Nilhcem/1602A-androidthings) - 1602 LCD display
-- [DaSiAnThiLib](https://github.com/davemckelvie/things-drivers) - LCD display, PCF8574(A)
+- [DaSiAnThiLib](https://github.com/davemckelvie/things-drivers) - HD44870 type displays (via LCM1602), PCF8574(A), PCF8591, Push buttons connected via PCF8574, TCS34725 I2C Colour sensor
 - [HCSR501 motion sensor](https://gist.github.com/PaulTR/0f09b2f8fdc2e45fa96aa53a77dabc05) - HCSR501 motion sensor
 - [HMC5883L 3-axis magnetometer](https://github.com/cagdasc/AndroidThings-HMC5883L) - HMC5883L 3-axis magnetometer
 - [ADXL345 3-axis accelerometer](https://github.com/cagdasc/AndroidThings-ADXL345) - ADXL345 3-axis accelerometer
