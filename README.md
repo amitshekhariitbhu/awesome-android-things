@@ -22,7 +22,7 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 - [sample-weatherstation](https://github.com/androidthings/weatherstation) - Android Things Weather Station sample.
 - [Serial Port Api](https://github.com/cepr/android-serialport-api) - library to access serial ports in Android.
 - [Creating an app](https://www.novoda.com/blog/writing-your-first-android-things-driver-p1/) - Writing your first Android Things driver.
-- [How you can architect your Android Things applications](http://blog.blundellapps.co.uk/testing-android-things-iot-meets-java/) - How you can architect your Android Things applications?
+- [Architect your Android Things applications](http://blog.blundellapps.co.uk/testing-android-things-iot-meets-java/) - How to architect your Android Things applications?
 - [Android Things – Hardware Basics](https://riggaroo.co.za/android-things-hardware-basics/) - Hardware Basics for the Software Engineer.
 
 ### Drivers
