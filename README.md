@@ -21,6 +21,9 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 - [sample-doorbell](https://github.com/androidthings/doorbell) - Android Things Doorbell sample.
 - [sample-weatherstation](https://github.com/androidthings/weatherstation) - Android Things Weather Station sample.
 - [Serial Port Api](https://github.com/cepr/android-serialport-api) - library to access serial ports in Android.
+- [Creating an app](https://www.novoda.com/blog/writing-your-first-android-things-driver-p1/) - Writing your first Android Things driver.
+- [How you can architect your Android Things applications](http://blog.blundellapps.co.uk/testing-android-things-iot-meets-java/) - How you can architect your Android Things applications?
+- [Android Things – Hardware Basics](https://riggaroo.co.za/android-things-hardware-basics/) - Hardware Basics for the Software Engineer.
 
 ### Drivers
 - [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637)
