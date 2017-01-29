@@ -29,6 +29,7 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 - [sample-doorbell](https://github.com/androidthings/doorbell) - Android Things Doorbell sample.
 - [sample-weatherstation](https://github.com/androidthings/weatherstation) - Android Things Weather Station sample.
 - [Serial Port Api](https://github.com/cepr/android-serialport-api) - library to access serial ports in Android.
+- [DoReFindMi](https://github.com/tomaszrykala/DoReFindMi) - Musical, button combination-finding game for [Rainbow HAT for Android Things](https://shop.pimoroni.com/products/rainbow-hat-for-android-things).
 
 ### Drivers
 - [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637)
