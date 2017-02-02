@@ -32,7 +32,7 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 - [DoReFindMi](https://github.com/tomaszrykala/DoReFindMi) - Musical, button combination-finding game for [Rainbow HAT for Android Things](https://shop.pimoroni.com/products/rainbow-hat-for-android-things).
 
 ### Drivers
-- [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637)
+- [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637), RainbowHat, SenseHat
 - [1602 LCD display](https://github.com/Nilhcem/1602A-androidthings) - 1602 LCD display
 - [DaSiAnThiLib](https://github.com/davemckelvie/things-drivers) - HD44870 type displays (via LCM1602), PCF8574(A), PCF8591, Push buttons connected via PCF8574, TCS34725 I2C Colour sensor
 - [HCSR501 motion sensor](https://gist.github.com/PaulTR/0f09b2f8fdc2e45fa96aa53a77dabc05) - HCSR501 motion sensor
@@ -41,9 +41,8 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 - [ADXL362 Accelerometer](https://github.com/vishal-android-freak/ADXL362-Interfacing-Library) - ADXL362 Accelerometer
 - [HC-SR04 Ultrasonic UserSensor](https://github.com/vishal-android-freak/HC-SR04-AndroidThings-Library) - HC-SR04 Ultrasonic UserSensor
 - [Bosh BMP85/BMP180](https://github.com/euler2dot7/android_things_bmp180) - Bosh BMP85/BMP180 barometer
-- [WS2801] (https://github.com/xrigau/androidthings-ws2801-driver) - LED strips WS2801
-
-
+- [WS2801](https://github.com/xrigau/androidthings-ws2801-driver) - LED strips WS2801
+- [SparkFun](https://github.com/hcchoong79/androidthings/tree/master/sparkfun - SparkFun [OLED](https://www.sparkfun.com/products/13035), [Gyro](https://www.sparkfun.com/products/13033), [UART](https://www.sparkfun.com/products/13040)
 
 ### TODO
 - Updating it on daily basis as much as possible so that we will be always updated.
