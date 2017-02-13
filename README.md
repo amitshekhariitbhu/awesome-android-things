@@ -42,7 +42,6 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 - [HC-SR04 Ultrasonic UserSensor](https://github.com/vishal-android-freak/HC-SR04-AndroidThings-Library) - HC-SR04 Ultrasonic UserSensor
 - [Bosh BMP85/BMP180](https://github.com/euler2dot7/android_things_bmp180) - Bosh BMP85/BMP180 barometer
 - [WS2801](https://github.com/xrigau/androidthings-ws2801-driver) - LED strips WS2801
-- [SparkFun](https://github.com/hcchoong79/androidthings/tree/master/sparkfun - SparkFun) [OLED](https://www.sparkfun.com/products/13035), [Gyro](https://www.sparkfun.com/products/13033), [UART](https://www.sparkfun.com/products/13040)
 
 ### TODO
 - Updating it on daily basis as much as possible so that we will be always updated.
