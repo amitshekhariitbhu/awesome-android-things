@@ -30,6 +30,7 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 - [sample-weatherstation](https://github.com/androidthings/weatherstation) - Android Things Weather Station sample.
 - [Serial Port Api](https://github.com/cepr/android-serialport-api) - library to access serial ports in Android.
 - [DoReFindMi](https://github.com/tomaszrykala/DoReFindMi) - Musical, button combination-finding game for [Rainbow HAT for Android Things](https://shop.pimoroni.com/products/rainbow-hat-for-android-things).
+- [candle](https://github.com/Polidea/at_candle) - simulation of a candle
 
 ### Drivers
 - [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637), RainbowHat, SenseHat
@@ -42,6 +43,8 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 - [HC-SR04 Ultrasonic UserSensor](https://github.com/vishal-android-freak/HC-SR04-AndroidThings-Library) - HC-SR04 Ultrasonic UserSensor
 - [Bosh BMP85/BMP180](https://github.com/euler2dot7/android_things_bmp180) - Bosh BMP85/BMP180 barometer
 - [WS2801](https://github.com/xrigau/androidthings-ws2801-driver) - LED strips WS2801
+- [nupad12](https://github.com/Polidea/Polithings/tree/master/numpad) - numpad with 12 buttons
+- [ULN2003](https://github.com/Polidea/Polithings/tree/master/uln2003) - 28BYJ-48 stepper motor with ULN2003 driver
 
 ### TODO
 - Updating it on daily basis as much as possible so that we will be always updated.
