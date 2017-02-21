@@ -49,6 +49,7 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 - [nupad12](https://github.com/Polidea/Polithings/tree/master/numpad) - numpad with 12 buttons
 - [ULN2003](https://github.com/Polidea/Polithings/tree/master/uln2003) - 28BYJ-48 stepper motor with ULN2003 driver
 - [MPR121](https://github.com/Nilhcem/mpr121-androidthings) - proximity capacitive touch sensor
+- [A4988](https://github.com/Polidea/Polithings/tree/master/a4988) - A4988 stepper motor driver
 
 ### Work in progress
 - [Wiegand 26](https://gist.github.com/austinn/e9b6daa322e928c8cf3e06b06cdfb3c5) - RFID sensor
