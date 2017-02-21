@@ -28,9 +28,12 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 - [sample-uartloopback](https://github.com/androidthings/sample-uartloopback) - UART Loopback sample for Android Things.
 - [sample-doorbell](https://github.com/androidthings/doorbell) - Android Things Doorbell sample.
 - [sample-weatherstation](https://github.com/androidthings/weatherstation) - Android Things Weather Station sample.
+- [sample-nativepio](https://github.com/androidthings/sample-nativepio) - 3 simple examples using native c++ peripheral IO API.
+- [sample-tensorflow-imageclassifier](https://github.com/androidthings/sample-tensorflow-imageclassifier) - Android Things TensorFlow image classifier sample.
 - [Serial Port Api](https://github.com/cepr/android-serialport-api) - library to access serial ports in Android.
 - [DoReFindMi](https://github.com/tomaszrykala/DoReFindMi) - Musical, button combination-finding game for [Rainbow HAT for Android Things](https://shop.pimoroni.com/products/rainbow-hat-for-android-things).
 - [candle](https://github.com/Polidea/at_candle) - simulation of a candle
+- [native-libandroidthings](https://github.com/androidthings/native-libandroidthings) - Android Things Native Library
 
 ### Drivers
 - [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637), RainbowHat, SenseHat
