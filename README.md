@@ -45,6 +45,7 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 - [WS2801](https://github.com/xrigau/androidthings-ws2801-driver) - LED strips WS2801
 - [nupad12](https://github.com/Polidea/Polithings/tree/master/numpad) - numpad with 12 buttons
 - [ULN2003](https://github.com/Polidea/Polithings/tree/master/uln2003) - 28BYJ-48 stepper motor with ULN2003 driver
+- [MPR121](https://github.com/Nilhcem/mpr121-androidthings) - proximity capacitive touch sensor
 
 ### TODO
 - Updating it on daily basis as much as possible so that we will be always updated.
