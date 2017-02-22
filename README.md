@@ -50,6 +50,7 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 - [ULN2003](https://github.com/Polidea/Polithings/tree/master/uln2003) - 28BYJ-48 stepper motor with ULN2003 driver
 - [MPR121](https://github.com/Nilhcem/mpr121-androidthings) - proximity capacitive touch sensor
 - [A4988](https://github.com/Polidea/Polithings/tree/master/a4988) - A4988 stepper motor driver
+- [Sparkfun](https://github.com/hcchoong79/androidthings) - Combined driver for the sparkfun blocks: OLEDBlock, LSM9DS0, UART
 
 ### Work in progress
 - [Wiegand 26](https://gist.github.com/austinn/e9b6daa322e928c8cf3e06b06cdfb3c5) - RFID sensor
