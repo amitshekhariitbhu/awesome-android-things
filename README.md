@@ -41,9 +41,9 @@
 - [sample-weatherstation](https://github.com/androidthings/weatherstation) - Android Things Weather Station sample.
 - [sample-nativepio](https://github.com/androidthings/sample-nativepio) - 3 simple examples using native c++ peripheral IO API.
 - [sample-tensorflow-imageclassifier](https://github.com/androidthings/sample-tensorflow-imageclassifier) - Android Things TensorFlow image classifier sample.
-- [Serial Port Api](https://github.com/cepr/android-serialport-api) - library to access serial ports in Android.
+- [Serial Port Api](https://github.com/cepr/android-serialport-api) - A library to access serial ports in Android.
 - [DoReFindMi](https://github.com/tomaszrykala/DoReFindMi) - Musical, button combination-finding game for [Rainbow HAT for Android Things](https://shop.pimoroni.com/products/rainbow-hat-for-android-things).
-- [candle](https://github.com/Polidea/at_candle) - simulation of a candle
+- [candle](https://github.com/Polidea/at_candle) - Simulation of a candle
 - [native-libandroidthings](https://github.com/androidthings/native-libandroidthings) - Android Things Native Library.
 - [Robot](https://github.com/euler2dot7/android_things_robot) - Android Things robot, controlled by web interface.
 
@@ -58,9 +58,9 @@
 - [HC-SR04 Ultrasonic UserSensor](https://github.com/vishal-android-freak/HC-SR04-AndroidThings-Library) - HC-SR04 Ultrasonic UserSensor
 - [Bosh BMP85/BMP180](https://github.com/euler2dot7/android_things_bmp180) - Bosh BMP85/BMP180 barometer
 - [WS2801](https://github.com/xrigau/androidthings-ws2801-driver) - LED strips WS2801
-- [nupad12](https://github.com/Polidea/Polithings/tree/master/numpad) - numpad with 12 buttons
-- [ULN2003](https://github.com/Polidea/Polithings/tree/master/uln2003) - 28BYJ-48 stepper motor with ULN2003 driver
-- [MPR121](https://github.com/Nilhcem/mpr121-androidthings) - proximity capacitive touch sensor
+- [nupad12](https://github.com/Polidea/Polithings/tree/master/numpad) - Numpad with 12 buttons
+- [ULN2003](https://github.com/Polidea/Polithings/tree/master/uln2003) - 28BYJ-48 Stepper motor with ULN2003 driver
+- [MPR121](https://github.com/Nilhcem/mpr121-androidthings) - Proximity capacitive touch sensor
 - [A4988](https://github.com/Polidea/Polithings/tree/master/a4988) - A4988 stepper motor driver
 - [Sparkfun](https://github.com/hcchoong79/androidthings) - Combined driver for the sparkfun blocks: OLEDBlock, LSM9DS0, UART
 
