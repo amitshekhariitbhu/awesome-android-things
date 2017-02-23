@@ -2,9 +2,20 @@
 
 # Awesome Android Things [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+> A curated list of awesome android things, tutorials, libraries and much more at one place.Here you can find references about everything you do while android things application development.
 
-# About
-A curated list of awesome android things, tutorials, libraries and much more at one place.Here you can find references about everything you do while android things application development.
+## Contents
+  * [Useful links](#useful-links)
+    * [Overview posts](#overview-posts)
+    * [Introductions for Android developers](#introductions-for-android-developers)
+    * [Sample apps and libraries](#sample-apps-and-libraries)
+    * [Drivers](#drivers)
+    * [Work in progress](#work-in-progress)
+    * [TODO](#todo)
+  * [Found this project useful <g-emoji alias="heart" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2764.png" ios-version="6.0">❤️</g-emoji>](#found-this-project-useful-heart)
+  * [Contact - Let's become friend](#contact---lets-become-friend)
+  * [License](#license)
+  * [Contributing](#contributing)
 
 ## Useful links
 
@@ -61,7 +72,7 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 ### Found this project useful :heart:
 * Support by clicking the :star: button on the upper right of this page. :v:
 
-### Contact - Let's become friend
+## Contact - Let's become friend
 - [Twitter](https://twitter.com/amitiitbhu)
 - [Github](https://github.com/amitshekhariitbhu)
 - [Medium](https://medium.com/@amitshekhar)
