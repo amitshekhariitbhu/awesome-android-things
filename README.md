@@ -33,7 +33,8 @@ A curated list of awesome android things, tutorials, libraries and much more at 
 - [Serial Port Api](https://github.com/cepr/android-serialport-api) - library to access serial ports in Android.
 - [DoReFindMi](https://github.com/tomaszrykala/DoReFindMi) - Musical, button combination-finding game for [Rainbow HAT for Android Things](https://shop.pimoroni.com/products/rainbow-hat-for-android-things).
 - [candle](https://github.com/Polidea/at_candle) - simulation of a candle
-- [native-libandroidthings](https://github.com/androidthings/native-libandroidthings) - Android Things Native Library
+- [native-libandroidthings](https://github.com/androidthings/native-libandroidthings) - Android Things Native Library.
+- [Robot](https://github.com/euler2dot7/android_things_robot) - Android Things robot, controlled by web interface.
 
 ### Drivers
 - [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637), RainbowHat, SenseHat
