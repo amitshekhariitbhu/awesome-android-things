@@ -46,6 +46,7 @@
 - [candle](https://github.com/Polidea/at_candle) - Simulation of a candle
 - [native-libandroidthings](https://github.com/androidthings/native-libandroidthings) - Android Things Native Library.
 - [Robot](https://github.com/euler2dot7/android_things_robot) - Android Things robot, controlled by web interface.
+- [remote-barometer](https://github.com/SergiyKorotun/android-things-remote-barometer) - Android Things project using BMP-180 pressure sensor, Firebase and android mobile app for rendering data
 
 ### Drivers
 - [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637), RainbowHat, SenseHat
