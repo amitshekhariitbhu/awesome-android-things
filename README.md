@@ -62,6 +62,7 @@
 - [nupad12](https://github.com/Polidea/Polithings/tree/master/numpad) - Numpad with 12 buttons
 - [ULN2003](https://github.com/Polidea/Polithings/tree/master/uln2003) - 28BYJ-48 Stepper motor with ULN2003 driver
 - [MPR121](https://github.com/Nilhcem/mpr121-androidthings) - Proximity capacitive touch sensor
+- [MPR121](https://github.com/the-cocktail/android-things-driver-mpr121) - MPR121 I2C touch sensor driver (tested on "Grove - I2C Touch Sensor")
 - [A4988](https://github.com/Polidea/Polithings/tree/master/a4988) - A4988 stepper motor driver
 - [Sparkfun](https://github.com/hcchoong79/androidthings) - Combined driver for the sparkfun blocks: OLEDBlock, LSM9DS0, UART
 
