@@ -47,6 +47,9 @@
 - [native-libandroidthings](https://github.com/androidthings/native-libandroidthings) - Android Things Native Library.
 - [Robot](https://github.com/euler2dot7/android_things_robot) - Android Things robot, controlled by web interface.
 - [remote-barometer](https://github.com/SergiyKorotun/android-things-remote-barometer) - Android Things project using BMP-180 pressure sensor, Firebase and android mobile app for rendering data
+- [example GPIO input](https://github.com/blundell/androidthings-gpio-input) - GPIO input (button) clean code sample 
+- [example GPIO output](https://github.com/blundell/androidthings-gpio-output) - GPIO output (LED) clean code sample 
+- [example PWM](https://github.com/blundell/androidthings-pwm) - PWM (speaker/buzzer) clean code sample 
 
 ### Drivers
 - [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637), RainbowHat, SenseHat
@@ -65,6 +68,7 @@
 - [MPR121](https://github.com/the-cocktail/android-things-driver-mpr121) - MPR121 I2C touch sensor driver (tested on "Grove - I2C Touch Sensor")
 - [A4988](https://github.com/Polidea/Polithings/tree/master/a4988) - A4988 stepper motor driver
 - [Sparkfun](https://github.com/hcchoong79/androidthings) - Combined driver for the sparkfun blocks: OLEDBlock, LSM9DS0, UART
+- [HC-SR501 Motion Sensor](https://github.com/blundell/PirMotionSensorModuleTut) - Motion Sensor Driver with creation tutorial
 
 ### Work in progress
 - [Wiegand 26](https://gist.github.com/austinn/e9b6daa322e928c8cf3e06b06cdfb3c5) - RFID sensor
