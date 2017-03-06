@@ -22,6 +22,7 @@
 ### Overview posts
 - [What is Android Things](https://blog.mindorks.com/google-released-the-developer-preview-of-android-things-iot-75cb49b9ce24) - A complete explanation about Android Things.
 - [Developer Kits](https://developer.android.com/things/hardware/developer-kits.html) - Discover the hardware platforms supported by Android Things as well as developer kits.
+- [How to write an Android Things driver](https://www.novoda.com/blog/writing-your-first-android-things-driver-p1/) - Learn how to start writing drivers for peripherals to use with Android Things.
 
 ### Introductions for Android developers
 - [Android Things Tutorials — Getting Started](https://blog.mindorks.com/android-things-tutorials-getting-started-8464c11009ff) - Getting started with Android Things (Android Things Tutorial).
