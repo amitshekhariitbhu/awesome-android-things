@@ -51,6 +51,7 @@
 - [example GPIO input](https://github.com/blundell/androidthings-gpio-input) - GPIO input (button) clean code sample 
 - [example GPIO output](https://github.com/blundell/androidthings-gpio-output) - GPIO output (LED) clean code sample 
 - [example PWM](https://github.com/blundell/androidthings-pwm) - PWM (speaker/buzzer) clean code sample 
+- [example Speech-To-Text](https://github.com/Nilhcem/audiofun-androidthings/tree/pocketsphinx/) Speech-to-text with open source CMU Pocketsphinx recognizer.
 
 ### Drivers
 - [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637), RainbowHat, SenseHat
