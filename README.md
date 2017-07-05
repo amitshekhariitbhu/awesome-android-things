@@ -69,7 +69,8 @@
 - [HC-SR04 Ultrasonic UserSensor](https://github.com/vishal-android-freak/HC-SR04-AndroidThings-Library) - HC-SR04 Ultrasonic UserSensor
 - [Bosh BMP85/BMP180](https://github.com/euler2dot7/android_things_bmp180) - Bosh BMP85/BMP180 barometer
 - [WS2801](https://github.com/xrigau/androidthings-ws2801-driver) - LED strips WS2801
-- [nupad12](https://github.com/Polidea/Polithings/tree/master/numpad) - Numpad with 12 buttons
+- [numpad12](https://github.com/Polidea/Polithings/tree/master/numpad) - Numpad with 12 buttons
+- [keypad](https://github.com/Nilhcem/keypad-androidthings) - Matrix Keypad
 - [ULN2003](https://github.com/Polidea/Polithings/tree/master/uln2003) - 28BYJ-48 Stepper motor with ULN2003 driver
 - [MPR121](https://github.com/Nilhcem/mpr121-androidthings) - Proximity capacitive touch sensor
 - [MPR121](https://github.com/the-cocktail/android-things-driver-mpr121) - MPR121 I2C touch sensor driver (tested on "Grove - I2C Touch Sensor")
@@ -77,6 +78,7 @@
 - [Sparkfun](https://github.com/hcchoong79/androidthings) - Combined driver for the sparkfun blocks: OLEDBlock, LSM9DS0, UART
 - [HC-SR501 Motion Sensor](https://github.com/blundell/PirMotionSensorModuleTut) - Motion Sensor Driver with creation tutorial
 - [MCP3008](https://github.com/PaulTR/AndroidThingsMCP3008ADC) - Sample to use MCP3008 Analog to Digital Converter
+- [ledcontrol](https://github.com/Nilhcem/ledcontrol-androidthings) - MAX72xx LED Matrix
 
 ### Work in progress
 - [Wiegand 26](https://gist.github.com/austinn/e9b6daa322e928c8cf3e06b06cdfb3c5) - RFID sensor
