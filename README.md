@@ -79,6 +79,7 @@
 - [HC-SR501 Motion Sensor](https://github.com/blundell/PirMotionSensorModuleTut) - Motion Sensor Driver with creation tutorial
 - [MCP3008](https://github.com/PaulTR/AndroidThingsMCP3008ADC) - Sample to use MCP3008 Analog to Digital Converter
 - [ledcontrol](https://github.com/Nilhcem/ledcontrol-androidthings) - MAX72xx LED Matrix
+- [RFID-RC522](https://github.com/Galarzaa90/android-things-rc522) - RFID reader for MIFARE cards. Authentication, reading and writing.
 
 ### Work in progress
 - [Wiegand 26](https://gist.github.com/austinn/e9b6daa322e928c8cf3e06b06cdfb3c5) - RFID sensor
