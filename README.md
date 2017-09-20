@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/amitshekhariitbhu/awesome-android-things/master/awesome_android_things.png">
 
 # Awesome Android Things [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
 [![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
 > A curated list of awesome android things, tutorials, libraries and much more at one place.Here you can find references about everything you do while android things application development.
 
