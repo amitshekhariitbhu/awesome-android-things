@@ -34,6 +34,7 @@
 - [Architect your Android Things applications](http://blog.blundellapps.co.uk/testing-android-things-iot-meets-java/) - How to architect your Android Things applications?
 
 ### Sample apps and libraries
+- [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637), RainbowHat, SenseHat
 - [New Project Template](https://github.com/androidthings/new-project-template) - Android Things empty project template.
 - [sample-simplepio](https://github.com/androidthings/sample-simplepio) - Simple example of Android Things Peripheral I/O APIs.
 - [sample-simpleui](https://github.com/androidthings/sample-simpleui) - Android Things Simple UI.
@@ -60,7 +61,7 @@
 - [Smile Candy Machine](https://github.com/luisleao/smiledispenser) - Presented at Google I/O 2017 - a candy dispenser activated by smiles. Uses Google Cloud Vision API and Firebase.
 
 ### Drivers
-- [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637), RainbowHat, SenseHat
+- [contrib-drivers](https://github.com/androidthings/contrib-drivers/) - Android Things Open source peripheral drivers: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637), RainbowHat, SenseHat
 - [1602 LCD display](https://github.com/Nilhcem/1602A-androidthings) - 1602 LCD display
 - [DaSiAnThiLib](https://github.com/davemckelvie/things-drivers) - HD44870 type displays (via LCM1602), PCF8574(A), PCF8591, Push buttons connected via PCF8574, TCS34725 I2C Colour sensor
 - [HCSR501 motion sensor](https://gist.github.com/PaulTR/0f09b2f8fdc2e45fa96aa53a77dabc05) - HCSR501 motion sensor
