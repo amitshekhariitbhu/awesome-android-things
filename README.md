@@ -61,27 +61,27 @@
 - [Smile Candy Machine](https://github.com/luisleao/smiledispenser) - Presented at Google I/O 2017 - a candy dispenser activated by smiles. Uses Google Cloud Vision API and Firebase.
 
 ### Drivers
-- [contrib-drivers](https://github.com/androidthings/contrib-drivers/) - Android Things Open source peripheral drivers: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637), RainbowHat, SenseHat
 - [1602 LCD display](https://github.com/Nilhcem/1602A-androidthings) - 1602 LCD display
-- [DaSiAnThiLib](https://github.com/davemckelvie/things-drivers) - HD44870 type displays (via LCM1602), PCF8574(A), PCF8591, Push buttons connected via PCF8574, TCS34725 I2C Colour sensor
-- [HCSR501 motion sensor](https://gist.github.com/PaulTR/0f09b2f8fdc2e45fa96aa53a77dabc05) - HCSR501 motion sensor
-- [HMC5883L 3-axis magnetometer](https://github.com/cagdasc/AndroidThings-HMC5883L) - HMC5883L 3-axis magnetometer
+- [A4988](https://github.com/Polidea/Polithings/tree/master/a4988) - A4988 stepper motor driver
 - [ADXL345 3-axis accelerometer](https://github.com/cagdasc/AndroidThings-ADXL345) - ADXL345 3-axis accelerometer
 - [ADXL362 Accelerometer](https://github.com/vishal-android-freak/ADXL362-Interfacing-Library) - ADXL362 Accelerometer
-- [HC-SR04 Ultrasonic UserSensor](https://github.com/vishal-android-freak/HC-SR04-AndroidThings-Library) - HC-SR04 Ultrasonic UserSensor
 - [Bosh BMP85/BMP180](https://github.com/euler2dot7/android_things_bmp180) - Bosh BMP85/BMP180 barometer
-- [WS2801](https://github.com/xrigau/androidthings-ws2801-driver) - LED strips WS2801
-- [numpad12](https://github.com/Polidea/Polithings/tree/master/numpad) - Numpad with 12 buttons
+- [contrib-drivers](https://github.com/androidthings/contrib-drivers/) - Android Things Open source peripheral drivers: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637), RainbowHat, SenseHat
+- [DaSiAnThiLib](https://github.com/davemckelvie/things-drivers) - HD44870 type displays (via LCM1602), PCF8574(A), PCF8591, Push buttons connected via PCF8574, TCS34725 I2C Colour sensor
+- [HC-SR04 Ultrasonic UserSensor](https://github.com/vishal-android-freak/HC-SR04-AndroidThings-Library) - HC-SR04 Ultrasonic UserSensor
+- [HC-SR501 Motion Sensor](https://github.com/blundell/PirMotionSensorModuleTut) - Motion Sensor Driver with creation tutorial
+- [HCSR501 motion sensor](https://gist.github.com/PaulTR/0f09b2f8fdc2e45fa96aa53a77dabc05) - HCSR501 motion sensor
+- [HMC5883L 3-axis magnetometer](https://github.com/cagdasc/AndroidThings-HMC5883L) - HMC5883L 3-axis magnetometer
 - [keypad](https://github.com/Nilhcem/keypad-androidthings) - Matrix Keypad
-- [ULN2003](https://github.com/Polidea/Polithings/tree/master/uln2003) - 28BYJ-48 Stepper motor with ULN2003 driver
+- [ledcontrol](https://github.com/Nilhcem/ledcontrol-androidthings) - MAX72xx LED Matrix
+- [MCP3008](https://github.com/PaulTR/AndroidThingsMCP3008ADC) - Sample to use MCP3008 Analog to Digital Converter
 - [MPR121](https://github.com/Nilhcem/mpr121-androidthings) - Proximity capacitive touch sensor
 - [MPR121](https://github.com/the-cocktail/android-things-driver-mpr121) - MPR121 I2C touch sensor driver (tested on "Grove - I2C Touch Sensor")
-- [A4988](https://github.com/Polidea/Polithings/tree/master/a4988) - A4988 stepper motor driver
-- [Sparkfun](https://github.com/hcchoong79/androidthings) - Combined driver for the sparkfun blocks: OLEDBlock, LSM9DS0, UART
-- [HC-SR501 Motion Sensor](https://github.com/blundell/PirMotionSensorModuleTut) - Motion Sensor Driver with creation tutorial
-- [MCP3008](https://github.com/PaulTR/AndroidThingsMCP3008ADC) - Sample to use MCP3008 Analog to Digital Converter
-- [ledcontrol](https://github.com/Nilhcem/ledcontrol-androidthings) - MAX72xx LED Matrix
+- [numpad12](https://github.com/Polidea/Polithings/tree/master/numpad) - Numpad with 12 buttons
 - [RFID-RC522](https://github.com/Galarzaa90/android-things-rc522) - RFID reader for MIFARE cards. Authentication, reading and writing.
+- [Sparkfun](https://github.com/hcchoong79/androidthings) - Combined driver for the sparkfun blocks: OLEDBlock, LSM9DS0, UART
+- [ULN2003](https://github.com/Polidea/Polithings/tree/master/uln2003) - 28BYJ-48 Stepper motor with ULN2003 driver
+- [WS2801](https://github.com/xrigau/androidthings-ws2801-driver) - LED strips WS2801
 
 ### TODO
 - Updating it on daily basis as much as possible so that we will be always updated.
