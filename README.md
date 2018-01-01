@@ -59,6 +59,9 @@
 - [Smart Switch](https://github.com/kevalpatel2106/smartswitch) - Control your home switches remotely from phone using Android Things & firebase realtime database.
 - [Collision Detector](https://github.com/kevalpatel2106/collision-detector-android-things) - Get the distance of the object and alert using LED when object is too close using ultrasonic ranging sensor HC-SR04.
 - [Smile Candy Machine](https://github.com/luisleao/smiledispenser) - Presented at Google I/O 2017 - a candy dispenser activated by smiles. Uses Google Cloud Vision API and Firebase.
+- [sample-hd44780](https://github.com/leinardi/androidthings-drivers/tree/master/sample-hd44780) - This sample demonstrates how to control the HD44780 LCD using PCF8574's I2C with Android Things.
+- [sample-lsm9ds1](https://github.com/leinardi/androidthings-drivers/tree/master/sample-lsm9ds1) - This sample demonstrates how to control the LSM9DS1 acceleration sensor and integrate it to the Android SensorManager.
+- [sample-sh1106](https://github.com/leinardi/androidthings-drivers/tree/master/sample-sh1106) - This sample demonstrates how to control the SH1106 OLED display using I2C with Android Things.
 
 ### Drivers
 - [1602 LCD display](https://github.com/Nilhcem/1602A-androidthings) - 1602 LCD display
@@ -71,15 +74,18 @@
 - [HC-SR04 Ultrasonic UserSensor](https://github.com/vishal-android-freak/HC-SR04-AndroidThings-Library) - HC-SR04 Ultrasonic UserSensor
 - [HC-SR501 Motion Sensor](https://github.com/blundell/PirMotionSensorModuleTut) - Motion Sensor Driver with creation tutorial
 - [HCSR501 motion sensor](https://gist.github.com/PaulTR/0f09b2f8fdc2e45fa96aa53a77dabc05) - HCSR501 motion sensor
+- [HD44780](https://github.com/leinardi/androidthings-drivers/blob/master/driver-hd44780) - alphanumeric dot matrix LCD
 - [HMC5883L 3-axis magnetometer](https://github.com/cagdasc/AndroidThings-HMC5883L) - HMC5883L 3-axis magnetometer
 - [keypad](https://github.com/Nilhcem/keypad-androidthings) - Matrix Keypad
 - [ledcontrol](https://github.com/Nilhcem/ledcontrol-androidthings) - MAX72xx LED Matrix
+- [LSM9DS1](https://github.com/leinardi/androidthings-drivers/blob/master/driver-lsm9ds1) - 3D accelerometer, 3D gyroscope, 3D magnetometer and temperature sensor
 - [MCP3008](https://github.com/PaulTR/AndroidThingsMCP3008ADC) - Sample to use MCP3008 Analog to Digital Converter
 - [MPR121](https://github.com/Nilhcem/mpr121-androidthings) - Proximity capacitive touch sensor
 - [MPR121](https://github.com/the-cocktail/android-things-driver-mpr121) - MPR121 I2C touch sensor driver (tested on "Grove - I2C Touch Sensor")
 - [numpad12](https://github.com/Polidea/Polithings/tree/master/numpad) - Numpad with 12 buttons
 - [RFID-RC522](https://github.com/Galarzaa90/android-things-rc522) - RFID reader for MIFARE cards. Authentication, reading and writing.
 - [Sparkfun](https://github.com/hcchoong79/androidthings) - Combined driver for the sparkfun blocks: OLEDBlock, LSM9DS0, UART
+- [SH1106](https://github.com/leinardi/androidthings-drivers/blob/master/driver-sh1106) - OLED display
 - [ULN2003](https://github.com/Polidea/Polithings/tree/master/uln2003) - 28BYJ-48 Stepper motor with ULN2003 driver
 - [WS2801](https://github.com/xrigau/androidthings-ws2801-driver) - LED strips WS2801
 
