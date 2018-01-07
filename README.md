@@ -63,6 +63,7 @@
 - [sample-lsm9ds1](https://github.com/leinardi/androidthings-drivers/tree/master/sample-lsm9ds1) - This sample demonstrates how to control the LSM9DS1 acceleration sensor and integrate it to the Android SensorManager.
 - [sample-sh1106](https://github.com/leinardi/androidthings-drivers/tree/master/sample-sh1106) - This sample demonstrates how to control the SH1106 OLED display using I2C with Android Things.
 - [sample-hcsr04](https://github.com/leinardi/androidthings-drivers/tree/master/sample-hcsr04) - This sample demonstrates how to control the HC-SR04 ultrasonic ranging module and integrate it to the Android SensorManager.
+- [sample-softpwm](https://github.com/leinardi/androidthings-pio/tree/master/sample-softpwm) - This sample demonstrates how to control both software and hardware PWM.
 
 ### Drivers
 - [1602 LCD display](https://github.com/Nilhcem/1602A-androidthings) - 1602 LCD display
@@ -86,6 +87,7 @@
 - [MPR121](https://github.com/the-cocktail/android-things-driver-mpr121) - MPR121 I2C touch sensor driver (tested on "Grove - I2C Touch Sensor")
 - [numpad12](https://github.com/Polidea/Polithings/tree/master/numpad) - Numpad with 12 buttons
 - [RFID-RC522](https://github.com/Galarzaa90/android-things-rc522) - RFID reader for MIFARE cards. Authentication, reading and writing.
+- [SoftPwm](https://github.com/leinardi/androidthings-pio/tree/master/pio-softpwm) - Software PWM library for Android Things
 - [Sparkfun](https://github.com/hcchoong79/androidthings) - Combined driver for the sparkfun blocks: OLEDBlock, LSM9DS0, UART
 - [SH1106](https://github.com/leinardi/androidthings-drivers/tree/master/driver-sh1106) - OLED display
 - [ULN2003](https://github.com/Polidea/Polithings/tree/master/uln2003) - 28BYJ-48 Stepper motor with ULN2003 driver
