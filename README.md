@@ -64,6 +64,7 @@
 - [sample-sh1106](https://github.com/leinardi/androidthings-drivers/tree/master/sample-sh1106) - This sample demonstrates how to control the SH1106 OLED display using I2C with Android Things.
 - [sample-hcsr04](https://github.com/leinardi/androidthings-drivers/tree/master/sample-hcsr04) - This sample demonstrates how to control the HC-SR04 ultrasonic ranging module and integrate it to the Android SensorManager.
 - [sample-softpwm](https://github.com/leinardi/androidthings-pio/tree/master/sample-softpwm) - This sample demonstrates how to control both software and hardware PWM.
+- [sample-ds3231](https://github.com/leinardi/androidthings-drivers/tree/master/sample-ds3231) - This sample demonstrates how to control the DS3231 real-time clock (RTC) using I2C with Android Things.
 
 ### Drivers
 - [1602 LCD display](https://github.com/Nilhcem/1602A-androidthings) - 1602 LCD display
@@ -73,6 +74,7 @@
 - [Bosh BMP85/BMP180](https://github.com/euler2dot7/android_things_bmp180) - Bosh BMP85/BMP180 barometer
 - [contrib-drivers](https://github.com/androidthings/contrib-drivers/) - Android Things Open source peripheral drivers: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637), RainbowHat, SenseHat
 - [DaSiAnThiLib](https://github.com/davemckelvie/things-drivers) - HD44870 type displays (via LCM1602), PCF8574(A), PCF8591, Push buttons connected via PCF8574, TCS34725 I2C Colour sensor
+- [DS3231](https://github.com/leinardi/androidthings-drivers/tree/master/driver-ds3231) - real-time clock (RTC)
 - [HC-SR04 Ultrasonic UserSensor](https://github.com/vishal-android-freak/HC-SR04-AndroidThings-Library) - HC-SR04 Ultrasonic UserSensor
 - [HC-SR04](https://github.com/leinardi/androidthings-drivers/tree/master/driver-hcsr04) - ultrasonic ranging module
 - [HC-SR501 Motion Sensor](https://github.com/blundell/PirMotionSensorModuleTut) - Motion Sensor Driver with creation tutorial
