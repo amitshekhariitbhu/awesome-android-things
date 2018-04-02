@@ -94,6 +94,7 @@
 - [SH1106](https://github.com/leinardi/androidthings-drivers/tree/master/driver-sh1106) - OLED display
 - [ULN2003](https://github.com/Polidea/Polithings/tree/master/uln2003) - 28BYJ-48 Stepper motor with ULN2003 driver
 - [WS2801](https://github.com/xrigau/androidthings-ws2801-driver) - LED strips WS2801
+- [BH1750](https://github.com/alvarowolfx/bh1750-androidthings) - Light sensor
 - [TSL256x](https://github.com/leinardi/androidthings-drivers/tree/master/driver-tsl256x) - Light-to-digital sensor driver
 
 ### TODO
