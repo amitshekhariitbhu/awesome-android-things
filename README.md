@@ -36,6 +36,7 @@
 ### Sample apps and libraries
 - [drivers-sample](https://github.com/androidthings/drivers-samples) - Android Things driver samples: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637), RainbowHat, SenseHat
 - [New Project Template](https://github.com/androidthings/new-project-template) - Android Things empty project template.
+- [Crunchy Calendar](https://github.com/CleverPumpkin/CrunchyCalendar) — A material calendar widget with infinite scrolling, date range selection and color customization.
 - [sample-simplepio](https://github.com/androidthings/sample-simplepio) - Simple example of Android Things Peripheral I/O APIs.
 - [sample-simpleui](https://github.com/androidthings/sample-simpleui) - Android Things Simple UI.
 - [sample-button](https://github.com/androidthings/sample-button) - Button and LED sample for Android Things.
