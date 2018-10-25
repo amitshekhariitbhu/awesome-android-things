@@ -3,7 +3,7 @@
 # Awesome Android Things [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
 [![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
-> A curated list of awesome android things, tutorials, libraries and much more at one place.Here you can find references about everything you do while android things application development.
+>A curated list of awesome Android Things, tutorials, libraries and much more at one place. Here you can find references about everything you do during Android Things application development.
 
 ## Contents
   * [Useful links](#useful-links)
@@ -104,7 +104,7 @@
 ### Found this project useful :heart:
 * Support by clicking the :star: button on the upper right of this page. :v:
 
-## Contact - Let's become friend
+## Contact - Let's become friends
 - [Twitter](https://twitter.com/amitiitbhu)
 - [Github](https://github.com/amitshekhariitbhu)
 - [Medium](https://medium.com/@amitshekhar)
@@ -117,4 +117,4 @@ To the extent possible under law, [Amit Shekhar](https://github.com/amitshekhari
 
 ## Contributing
 
-Your contributions are always welcome! Just follow the following format: `[reference name](link) - Description.` If you like it , give a star to this project
+Your contributions are always welcome! Just follow the following format: `[reference name](link) - Description.` If you like it, give a star to this project
