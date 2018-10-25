@@ -13,7 +13,7 @@
     * [Drivers](#drivers)
     * [TODO](#todo)
   * [Found this project useful <g-emoji alias="heart" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2764.png" ios-version="6.0">❤️</g-emoji>](#found-this-project-useful-heart)
-  * [Contact - Let's become friend](#contact---lets-become-friend)
+  * [Contact - Let's become friend](#contact---lets-become-friends)
   * [License](#license)
   * [Contributing](#contributing)
 
