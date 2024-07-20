@@ -3,7 +3,7 @@
 # Awesome Android Things
 >A curated list of awesome Android Things, tutorials, libraries and much more at one place. Here you can find references about everything you do during Android Things application development.
 
-## [My Personal Blog - amitshekhar.me](https://amitshekhar.me/blog) - High-quality content to learn Android concepts.
+## [Outcome School Blog](https://outcomeschool.com/blog) - High-quality content to learn Android concepts.
 
 ## Contents
   * [Useful links](#useful-links)
