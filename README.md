@@ -67,6 +67,8 @@
 - [sample-softpwm](https://github.com/leinardi/androidthings-pio/tree/master/sample-softpwm) - This sample demonstrates how to control both software and hardware PWM.
 - [sample-ds3231](https://github.com/leinardi/androidthings-drivers/tree/master/sample-ds3231) - This sample demonstrates how to control the DS3231 real-time clock (RTC) using I2C with Android Things.
 - [Smart Room](https://github.com/carlosgub/Cuarto-Inteligente-Repo) - This sample shows how turn on/off a light by using a Relay and Firebase. / Este ejemplo muestra como prender y apagar la luz usando un relay y firebase
+- [DraggablePanel 2](https://github.com/hoanganhtuan95ptit/DraggablePanel) - A library to create effects similar to the YouTube app
+
 ### Drivers
 - [1602 LCD display](https://github.com/Nilhcem/1602A-androidthings) - 1602 LCD display
 - [A4988](https://github.com/Polidea/Polithings/tree/master/a4988) - A4988 stepper motor driver
